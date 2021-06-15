@@ -1,0 +1,95 @@
+header{
+	border:2px solid #000000;
+  background-image: url('background.jpg');
+}
+#header{
+  color:#ffffff;
+  font-size: 400%;
+  text-align: center;
+}
+.button{
+  background-color:#6b8e23;
+  border-radius:10%;
+  width:120%;
+  border:2px solid #6b8e23 ;
+  color:#ffffff;
+}
+.button:hover{
+    background-color:#b99aff;
+		border:2px solid #b99aff ;
+}
+#transfer{
+  background-color:#45b6fe;
+  border:2px solid #45b6fe ;
+  color:#ffffff;
+	width:100%;
+	margin-bottom:10px;
+}
+#money_transfer{
+	display:none;
+}
+#hbutton{
+	width:100%;
+	height:40px;
+	background-color:#45b6fe;
+  border:2px solid #45b6fe ;
+  color:#ffffff;
+}
+#cuba{
+	display:none;
+}
+#transfer1{
+	width:30%;
+	background-color:#45b6fe;
+  border:2px solid #45b6fe ;
+	border-radius:10%;
+  color:#ffffff;
+}
+#currentbalance{
+	width:30%;
+	background-color:#45b6fe;
+  border:2px solid #45b6fe ;
+	border-radius:10%;
+  color:#ffffff;
+}
+#name1{
+	color:#228b22;
+}
+#welcome{
+	color:#228b22;
+}
+#info{
+	color:#228b22;
+}
+.underline{
+	color:#228b22;
+	text-decoration: underline;
+}
+#instruction{
+	color:red;
+}
+footer{
+	border:2px solid #000000;
+	text-align: center;
+	background-color: #808000;
+	color:#ffffff;
+	left:0;
+	bottom:0;
+	width:100%;
+	margin-bottom: 0px;
+	margin-top:5px;
+	display:inline-block;
+}
+#footer{
+	border:2px solid #000000;
+	text-align: center;
+	background-color: #808000;
+	color:#ffffff;
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	margin-bottom: 0px;
+	margin-top:5px;
+	display:inline-block;
+}
